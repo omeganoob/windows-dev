@@ -1,0 +1,17 @@
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.csproj.AssemblyReference.cache
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6_PictureBox.Form1.resources
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.csproj.GenerateResource.cache
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.AssemblyInfoInputs.cache
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.AssemblyInfo.cs
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.csproj.CoreCompileInputs.cache
+D:\User Files\csharp\repos\Slide6 PictureBox\bin\Debug\net6.0-windows\Slide6 PictureBox.exe
+D:\User Files\csharp\repos\Slide6 PictureBox\bin\Debug\net6.0-windows\Slide6 PictureBox.deps.json
+D:\User Files\csharp\repos\Slide6 PictureBox\bin\Debug\net6.0-windows\Slide6 PictureBox.runtimeconfig.json
+D:\User Files\csharp\repos\Slide6 PictureBox\bin\Debug\net6.0-windows\Slide6 PictureBox.dll
+D:\User Files\csharp\repos\Slide6 PictureBox\bin\Debug\net6.0-windows\Slide6 PictureBox.pdb
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.dll
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\refint\Slide6 PictureBox.dll
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.pdb
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\Slide6 PictureBox.genruntimeconfig.cache
+D:\User Files\csharp\repos\Slide6 PictureBox\obj\Debug\net6.0-windows\ref\Slide6 PictureBox.dll

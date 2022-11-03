@@ -1,0 +1,17 @@
+D:\User Files\csharp\repos\Slide6\bin\Debug\net6.0-windows\Slide6.exe
+D:\User Files\csharp\repos\Slide6\bin\Debug\net6.0-windows\Slide6.deps.json
+D:\User Files\csharp\repos\Slide6\bin\Debug\net6.0-windows\Slide6.runtimeconfig.json
+D:\User Files\csharp\repos\Slide6\bin\Debug\net6.0-windows\Slide6.dll
+D:\User Files\csharp\repos\Slide6\bin\Debug\net6.0-windows\Slide6.pdb
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.csproj.AssemblyReference.cache
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.frmEmployeeDetails.resources
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.csproj.GenerateResource.cache
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.AssemblyInfoInputs.cache
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.AssemblyInfo.cs
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.csproj.CoreCompileInputs.cache
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.dll
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\refint\Slide6.dll
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.pdb
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\Slide6.genruntimeconfig.cache
+D:\User Files\csharp\repos\Slide6\obj\Debug\net6.0-windows\ref\Slide6.dll

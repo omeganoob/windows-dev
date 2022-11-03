@@ -1,0 +1,15 @@
+D:\User Files\csharp\repos\LinqExample\bin\Debug\net6.0\LinqExample.exe
+D:\User Files\csharp\repos\LinqExample\bin\Debug\net6.0\LinqExample.deps.json
+D:\User Files\csharp\repos\LinqExample\bin\Debug\net6.0\LinqExample.runtimeconfig.json
+D:\User Files\csharp\repos\LinqExample\bin\Debug\net6.0\LinqExample.dll
+D:\User Files\csharp\repos\LinqExample\bin\Debug\net6.0\LinqExample.pdb
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\LinqExample.csproj.AssemblyReference.cache
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfoInputs.cache
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfo.cs
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\LinqExample.csproj.CoreCompileInputs.cache
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\LinqExample.dll
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\refint\LinqExample.dll
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\LinqExample.pdb
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\LinqExample.genruntimeconfig.cache
+D:\User Files\csharp\repos\LinqExample\obj\Debug\net6.0\ref\LinqExample.dll

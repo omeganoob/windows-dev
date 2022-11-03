@@ -1,0 +1,15 @@
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.exe
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.deps.json
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.runtimeconfig.json
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.dll
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.pdb
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.csproj.AssemblyReference.cache
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.AssemblyInfoInputs.cache
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.AssemblyInfo.cs
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.csproj.CoreCompileInputs.cache
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.dll
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\refint\SingletonExample.dll
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.pdb
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.genruntimeconfig.cache
+D:\User Files\csharp\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\ref\SingletonExample.dll
